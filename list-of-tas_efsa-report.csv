@@ -1,0 +1,33 @@
+﻿Name,synonym,SMILES
+O-acetylscopolamine,-,CC(=O)OC[C@H](C(=O)OC1C[C@@H]2C[C@@H](C1)N(C)C1OC12)c1ccccc1
+Anisodamine,6-beta-hydroxyhyoscyamine,N1C[C@@H]2C[C@@H]3C[C@H](CC3CO)[C@@H]1C[C@H]2O
+Anisodine,alpha-hydroxyscopolamine,CN1C[C@H]2C[C@H]3CC(OC(=O)C(O)(O)c4ccccc4)C[C@H]1[C@@H]3O2
+Apoatropine,-,C=C(C(=O)OC1C[C@@H]2CC[C@@H](C1)N2C)c1ccccc1
+Aposcopolamine,-,C=C(C(O[C@@H](C[C@H]1C[C@@H]2OC)C[C@H]2N1C)=O)C3=CC=CC=C3
+Atropine,(+/-)-hyoscyamine,OCC(C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3
+Homatropine,(+/-)-homatropine,OC(C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3
+Noratropine,(+/-)noratropine,OCC(C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)=O)C3=CC=CC=C3
+Littorine,(-)-littorine,O[C@H](C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3
+(-)-Hyoscyamine,-,OC[C@H](C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3
+2-Hydroxymethyl atropine,-,O=C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)C(CO)(CO)C3=CC=CC=C3
+(-)-Norscopolamine,-,OC[C@H](C(O[C@@H]1C[C@H]([C@@H](OC)C2)N[C@H]2C1)=O)C3=CC=CC=C3
+3alpha-Phenylacetoxy tropane,-,O=C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)CC3=CC=CC=C3
+(-)-Scopolamine,Hyoscine,OC[C@H](C(O[C@@H]1C[C@H]([C@@H](OC)C2)N(C)[C@H]2C1)=O)C3=CC=CC=C3
+Convolamine,-,O=C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)C3=CC=C(OC)C(OC)=C3
+Convolidine,-,O=C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)C3=CC=C(O)C(OC)=C3
+Convolvine,-,O=C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)C3=CC=C(OC)C(OC)=C3
+Fillalbine,-,O=C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)C3=CC=C(O)C(OC)=C3
+6-Hydroxytropinone,-,O=C(C[C@H]1[C@H](O)C2)C[C@H]2N1C
+Nortropinone,-,O=C1C[C@H](CC2)N[C@H]2C1
+Pseudotropine,-,CN1[C@@H]2CCC[C@H]1[C@H](O)C2
+Scopoline,-,CN1[C@@H]2C[C@@H](O3)C[C@H]1[C@@H]3C2O
+Scopine,-,O[C@@H](C[C@H]1C[C@@H]2OC)C[C@H]2N1C
+Tropinone,-,O=C1C[C@H](CC2)N(C)[C@H]2C1
+Tropine,-,CN1[C@@H]2CC(O)C[C@H]1CC2
+Calystegine A3,-,OC1C[C@H](CC2)N[C@@]2(O)[C@@H]1O
+Calystegine A5,-,OC1[C@H](O)[C@H](CC2)N[C@@]2(O)C1
+Calystegine B1,-,OC1C[C@H]([C@H](O)C2)N[C@@]2(O)[C@@H]1O
+Calystegine B2,,O[C@H]1[C@H](O)[C@H](CC2)N[C@@]2(O)[C@@H]1O
+Calystegine B3,-,OC1[C@H](O)[C@H](CC2)N[C@@]2(O)[C@@H]1O
+Calystegine B4,-,OC1[C@H](O)[C@H](CC2)N[C@@]2(O)[C@H]1O
+Carbachol,,C[N+](C)(C)CCOC(=O)N.[Cl-]

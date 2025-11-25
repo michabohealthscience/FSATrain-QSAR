@@ -1,0 +1,33 @@
+"Name","SMILES","Predicted_Activity"
+"O-acetylscopolamine","CC(=O)OC[C@H](C(=O)OC1C[C@@H]2C[C@@H](C1)N(C)C1OC12)c1ccccc1",7.25493818063674
+"Anisodamine","N1C[C@@H]2C[C@@H]3C[C@H](CC3CO)[C@@H]1C[C@H]2O",6.38753457396887
+"Anisodine","CN1C[C@H]2C[C@H]3CC(OC(=O)C(O)(O)c4ccccc4)C[C@H]1[C@@H]3O2",7.13291135809357
+"Apoatropine","C=C(C(=O)OC1C[C@@H]2CC[C@@H](C1)N2C)c1ccccc1",7.54919044207261
+"Aposcopolamine","C=C(C(O[C@@H](C[C@H]1C[C@@H]2OC)C[C@H]2N1C)=O)C3=CC=CC=C3",7.04562507003504
+"Atropine","OCC(C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3",9.07590465614581
+"Homatropine","OC(C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3",8.18914911563192
+"Noratropine","OCC(C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)=O)C3=CC=CC=C3",7.87669993563073
+"Littorine","O[C@H](C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3",8.18914911563192
+"(-)-Hyoscyamine","OC[C@H](C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)=O)C3=CC=CC=C3",9.07590465614581
+"2-Hydroxymethyl atropine","O=C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)C(CO)(CO)C3=CC=CC=C3",8.17769009503431
+"(-)-Norscopolamine","OC[C@H](C(O[C@@H]1C[C@H]([C@@H](OC)C2)N[C@H]2C1)=O)C3=CC=CC=C3",7.87137282927019
+"3alpha-Phenylacetoxy tropane","O=C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)CC3=CC=CC=C3",7.18262780442238
+"(-)-Scopolamine","OC[C@H](C(O[C@@H]1C[C@H]([C@@H](OC)C2)N(C)[C@H]2C1)=O)C3=CC=CC=C3",8.32619237682724
+"Convolamine","O=C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)C3=CC=C(OC)C(OC)=C3",7.03207886909586
+"Convolidine","O=C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)C3=CC=C(O)C(OC)=C3",7.61392548816331
+"Convolvine","O=C(O[C@@H]1C[C@H](CC2)N[C@H]2C1)C3=CC=C(OC)C(OC)=C3",7.00685684828345
+"Fillalbine","O=C(O[C@@H](C[C@H]1CC2)C[C@H]2N1C)C3=CC=C(O)C(OC)=C3",7.58289087078324
+"6-Hydroxytropinone","O=C(C[C@H]1[C@H](O)C2)C[C@H]2N1C",6.80048360260414
+"Nortropinone","O=C1C[C@H](CC2)N[C@H]2C1",6.84588673641199
+"Pseudotropine","CN1[C@@H]2CCC[C@H]1[C@H](O)C2",6.90731270019469
+"Scopoline","CN1[C@@H]2C[C@@H](O3)C[C@H]1[C@@H]3C2O",7.03182605626395
+"Scopine","O[C@@H](C[C@H]1C[C@@H]2OC)C[C@H]2N1C",6.73671924437871
+"Tropinone","O=C1C[C@H](CC2)N(C)[C@H]2C1",7.10403109761563
+"Tropine","CN1[C@@H]2CC(O)C[C@H]1CC2",7.26439456649397
+"Calystegine A3","OC1C[C@H](CC2)N[C@@]2(O)[C@@H]1O",7.02927980027125
+"Calystegine A5","OC1[C@H](O)[C@H](CC2)N[C@@]2(O)C1",7.02927980027125
+"Calystegine B1","OC1C[C@H]([C@H](O)C2)N[C@@]2(O)[C@@H]1O",7.01746620720729
+"Calystegine B2","O[C@H]1[C@H](O)[C@H](CC2)N[C@@]2(O)[C@@H]1O",7.03075161750906
+"Calystegine B3","OC1[C@H](O)[C@H](CC2)N[C@@]2(O)[C@@H]1O",7.03075161750906
+"Calystegine B4","OC1[C@H](O)[C@H](CC2)N[C@@]2(O)[C@H]1O",7.03075161750906
+"Carbachol","C[N+](C)(C)CCOC(=O)N.[Cl-]",6.58778134316361
