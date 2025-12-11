@@ -2,7 +2,7 @@
 # Step 0: Load required packages
 # =============================
 packages <- c("recipes", "caret", "randomForest", "gbm", "FNN", "ggplot2",
-              "dplyr", "reshape2", "fingerprint", "e1071", "iml")
+              "dplyr", "reshape2", "e1071", "iml")
 
 for (pkg in packages) {
   if (!requireNamespace(pkg, quietly = TRUE)) install.packages(pkg)

@@ -2,7 +2,7 @@
 # Install and Load Required Packages
 # ==============================
 
-packages <- c("fingerprint", "Rtsne", "plotly", "readr", "dplyr", "data.table", "viridisLite")
+packages <- c("Rtsne", "plotly", "readr", "dplyr", "data.table", "viridisLite")
 installed <- rownames(installed.packages())
 for (p in packages) {
   if (!(p %in% installed)) install.packages(p)
