@@ -31,8 +31,8 @@ lapply(packages, library, character.only = TRUE)
 # unique_idx <- !duplicated(fp_mat)
 # data_unique <- data[unique_idx, ]
 # 
-# saveRDS(fp_mat_unique, "fp_mat_unique.RDS")
-# saveRDS(data_unique, "data_unique.RDS")
+# saveRDS(fp_mat_unique, "pre_generated/fp_mat_unique.RDS")
+# saveRDS(data_unique, "pre_generated/data_unique.RDS")
 
 
 # ==============================
