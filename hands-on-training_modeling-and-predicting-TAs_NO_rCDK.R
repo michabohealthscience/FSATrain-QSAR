@@ -20,7 +20,7 @@ for(pkg in required_pkgs){
 train_csv <- "m1-pki-qsar-ready.csv"       # Training data: must contain SMILES + Activity
 unseen_csv <- "list-of-tas_efsa-report.csv"       # Unseen data: must contain SMILES + Name
 n_folds <- 5                                # CV folds
-save_model_file <- "rf_maccs_model.rds"    # Save trained model
+save_model_file <- "rf_maccs_model.RDS"    # Save trained model
 n_trees <- 500                              # Random Forest trees
 
 # =============================
@@ -116,8 +116,8 @@ cat("Saved RF model to", save_model_file, "\n")
 # 
 # unseen_valid <- unseen[valid_idx, , drop = FALSE]
 # mols_new <- mols_new[valid_idx]
-# saveRDS(unseen_valid, "pre_generated/unseen_valid.rds")
-unseen_valid <- readRDS("pre_generated/unseen_valid.rds")
+# saveRDS(unseen_valid, "pre_generated/unseen_valid.RDS")
+unseen_valid <- readRDS("pre_generated/unseen_valid.RDS")
 
 # =============================
 # 8. Compute MACCS fingerprints for unseen
